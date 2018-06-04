@@ -1,7 +1,9 @@
 
 ## THE REFUGEE CRISIS IS SPIRALING OUT OF CONTROL
 Every minute, 20 people are forced to abandon their homes because of violence or persecution. And if we put all 65.6 million of these people in one place, forming their own country, it would be larger than the United Kingdom. This is the refugee crisis—an immense and unimaginable suffering on a global scale.
+
 ![alt text](/r3.png)
+
 ### AND WE WANT TO FIX IT.
 We are building a blockchain technology platform for refugee-led projects. This platform is accessed through WeCoin, a cryptocurrency which allows the holder to nominate, vote for, and fund these projects. Users of the platform can also earn WeCoin by completing needed tasks, such as delivering drinking water or supplying a medical clinic. In this way we are developing an ecosystem that empowers refugees through financial inclusion, and massively scaling the efficacy of current relief efforts.
 
