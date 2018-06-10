@@ -24,4 +24,16 @@ Additionally, the immense public hatred for refugees means we needed a way for p
 
 Lastly, refugees are generally don’t have credit cards and don’t trust financial institutions. Having a blockchain-based token from a community they’re a part of solves this issue
 
+# Technical details 
+
+![alt text](/1.png)
+
+![alt text](/2.png)
+
+![alt text](/3.png)
+
+![alt text](/4.png)
+
+# Access the testnet [here]()
+
 [Tweet Me](https://twitter.com/SriKolagani) 
