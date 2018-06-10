@@ -34,6 +34,6 @@ Lastly, refugees are generally don’t have credit cards and don’t trust finan
 
 ![alt text](/4.png)
 
-# Access the testnet [here]()
+# Access the testnet [here](https://wecoin.herokuapp.com/index.html)
 
 [Tweet Me](https://twitter.com/SriKolagani) 
